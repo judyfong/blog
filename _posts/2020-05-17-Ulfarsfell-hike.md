@@ -6,6 +6,8 @@ categories: hiking gönguleið rocky-trails iceland
 ---
 The Úlfarsfell, "Úlfar's Mountain", hike is in Mosfellsbær and Reykjavík. It is within the capital's metropolitan area. Regarding the name, no one knows why Úlfarsfell has the name that it does. 
 
+![Alt]({{ site.url }}/assets/Ulfarsfell_hike_down.JPG "View while hiking back down")
+
 The highest point is 296 meters (971 ft) high at Stórhnukur, but people often only hike up to Hákinn which is 280 m (918 ft) high. The hike is about 5 km (3 miles) long round-trip if you want to do the full hike. It can be shorter if you prefer to take some closer paths back. It is a pretty popular hike with locals both as a weekend hike and as part of their daily exercise routine. 
 
 ## Getting to Úlfarsfell
@@ -17,6 +19,10 @@ The hike is quite rocky, with lots of loose sharp rocks. That's why I recommend 
 
 There are multiple possible paths to take, with varying degrees of difficulty. The difficulty mostly has to do with how fast and steep you're willing to hike to get to the peak. Families often come here with their kids. There are orange poles to mark the hiking paths. Sometimes it feels like there isn't another one but if you walk for just a few minutes another pole comes into view.
 
+![Alt]({{ site.url }}/assets/Ulfarsfell_Storhnukur.JPG "Human-made rock formation at Stórhnukur")
+
 The hike provides a beautiful view of the nearby city and towns, as well as a glimpse of Snæfellsjökull, the "Snæfells penninsula glacier" on a good day. The hike generally doesn't take more than couple hours round trip.
 
-[Here's the facebook created community page. It has many pictures if you want to get a better idea of the hiking conditions.](https://www.facebook.com/pages/%C3%9Alfarsfell/152317008140391)
+![Alt]({{ site.url }}/assets/Ulfarsfell_bay.JPG "View of Faxaflói(the bay)")
+
+[Here's the facebook created community page. It has many pictures if you want to get a better idea of the hiking conditions.](https://www.facebook.com/pages/%C3%9Alfarsfell/152317008140391 "Link to Úlfarsfell facebook page")
