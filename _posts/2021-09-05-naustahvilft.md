@@ -2,7 +2,7 @@
 layout: post
 title:  "Naustahvilft - The Troll's Seat"
 date:   2021-09-05
-categories: naustahvilft trolls-seat
+categories: naustahvilft trolls-seat isafjordur
 ---
 
 # Naustahvilft - The Troll's Seat
@@ -60,6 +60,7 @@ view of Isafjordur, I hiked down. The path down is much harder. The great
 natural staircase becomes many small areas each of which can be yet another
 chance for you to slip and fall. So it's extremely important to watch your
 step. If you're thirsty you can also get some fresh water from the nearby
-spring.
+spring. I highly recommend doing this hike if you get the chance to visit
+Isafjordur.
 
 [westfjords]: https://www.westfjords.is/en/place/naustahvilft
