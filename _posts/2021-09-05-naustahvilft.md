@@ -5,15 +5,13 @@ date:   2021-09-05
 categories: naustahvilft trolls-seat isafjordur
 ---
 
-# Naustahvilft - The Troll's Seat
-
-![Alt]({{ site.url }}/assets/Naustahvilft_isafjordur.JPG "view of Isafjordur from Naustahvilft")
-
 When you enter the town of Ísafjórður, one of the most visually striking
 landmarks is Naustahvilft, a half crater in the mountain. It can be seen from
 all parts of the town and it is right next to the airport. In English it is
 also known as the troll's seat. You can read more about the folk tale at the
 [Vist Westfjords website][westfjords].
+
+![Alt]({{ site.url }}/assets/Naustahvilft_isafjordur.JPG "view of Isafjordur from Naustahvilft")
 
 ![Alt]({{ site.url }}/assets/Naustahvilft_afar.JPG "Naustahvilft from afar")
 
