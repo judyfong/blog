@@ -3,6 +3,7 @@ layout: page
 title: "Úlfarsfell Hike"
 date: 2020-05-17
 categories: hiking gönguleið rocky-trails iceland
+tags: rocky-trails
 ---
 The Úlfarsfell, "Úlfar's Mountain", hike is in Mosfellsbær and Reykjavík. It is within the capital's metropolitan area. Regarding the name, no one knows why Úlfarsfell has the name that it does. 
 

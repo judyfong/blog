@@ -2,7 +2,8 @@
 layout: post
 title:  "Naustahvilft - The Troll's Seat"
 date:   2021-09-05
-categories: naustahvilft trolls-seat isafjordur
+categories: [hiking, trail, gönguleið, iceland]
+tags: naustahvilft trolls-seat isafjordur
 ---
 
 When you enter the town of Ísafjórður, one of the most visually striking

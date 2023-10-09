@@ -2,7 +2,8 @@
 layout: post
 title:  "Hornstrandir Hike"
 date:   2023-07-24
-categories: iceland nature-reserve hornstrandir foxes camp spiders
+categories: [iceland, hiking, gönguleið, trail]
+tags: [foxes, camp, spiders, nature reserve, hornstrandir]
 ---
 
 Hornstrandir is the most remote nature reserve in Iceland. It is location in
