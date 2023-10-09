@@ -6,7 +6,7 @@ categories: [iceland, hiking, gönguleið, trail]
 tags: [foxes, camp, spiders, nature reserve, hornstrandir]
 ---
 
-Hornstrandir is the most remote nature reserve in Iceland. It is location in
+Hornstrandir is the most remote nature reserve in Iceland. It is located in
 the northern most part of the Westfjords. As an nature reserve it has an
 abundance of Icelandic flora and fauna. It's possible to do day trips in
 Hesteyri or to do a multi-day hike; this involves a bit of planning like any
@@ -245,7 +245,7 @@ where there is a bit of a rocky divet. That's what we did at least. That leads
 to the final trail down the
 mountain.
 
-![Alt]({{ site.url }}/assets/Hornstrandir_river_crossing_2.JPG "Bottom of the
+![Alt]({{ site.url }}/assets/Hornstrandir_final_descent_to_hesteyri.JPG "Bottom of the
 final descent to Hesteyri")
 
 The trail basically ended when we reached these signs.
@@ -365,9 +365,9 @@ We technically only did four days of hiking and three nights eating at the
 camps. The fourth night we ate at the [doctor's house in Hesteyri][doctors].
 They served us a nice dinner of beer, fish, and ice cream. The prices were very
 reasonable and compareable to an average restaurant in Reykjavík. All in all
-dinner was only 6,500kr for me. It's a good idea to make a reservation for
-dinner to make sure they have the food ready during dinner time as they usually
-only server pancakes and cake to day trippers.
+dinner was only 6,500kr for me. It's a good idea to make a reservation under
+your name for dinner to make sure they have the food ready during dinner time
+as they usually only serve pancakes and cake to day trippers.
 
 We brought a compass and a paper map as there is no cell reception in most of
 Hornstrandir. Maps can be bought at the bookstore or rental camping equipment
