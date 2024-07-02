@@ -1,7 +1,6 @@
 ---
-layout: page
 title: About
 permalink: /about/
+redirect_to:
+    - https://about.judyyfong.xyz
 ---
-
-This is my blog where I talk about whatever is of interest.
